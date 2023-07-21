@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3413, 5193]
+      },
+      "properties": {
+        "name": "Cetus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3480, 5928]
+      },
+      "properties": {
+        "name": "Mer-Sah\nBay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [600, 4778]
+      },
+      "properties": {
+        "name": "Er-Phryah's\nVigil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2553, 4802]
+      },
+      "properties": {
+        "name": "Twin Horns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5739, 5447]
+      },
+      "properties": {
+        "name": "Hillside\nRuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3660, 3519]
+      },
+      "properties": {
+        "name": "Gara Toht\nLake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3685, 796]
+      },
+      "properties": {
+        "name": "The Seethe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5717, 1782]
+      },
+      "properties": {
+        "name": "Ostwan\nRange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3553, 1963]
+      },
+      "properties": {
+        "name": "Renthi\nSpring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2165, 627]
+      },
+      "properties": {
+        "name": "Mount Nang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [970, 1909]
+      },
+      "properties": {
+        "name": "The\nRibs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [523, 3436]
+      },
+      "properties": {
+        "name": "Seaside\nRuin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2763, 3733]
+      },
+      "properties": {
+        "name": "Hek's\nStiletto"
+      }
+    }
+  ]
+}

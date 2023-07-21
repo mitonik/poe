@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [562, 2982]
+      },
+      "properties": {
+        "name": "The Grineer Tusks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1295, 5652]
+      },
+      "properties": {
+        "name": "Ostron Artisans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1999, 5999]
+      },
+      "properties": {
+        "name": "Ostron Patois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5384, 6314]
+      },
+      "properties": {
+        "name": "Ancient History"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5482, 3941]
+      },
+      "properties": {
+        "name": "The Unum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5864, 1308]
+      },
+      "properties": {
+        "name": "Cetus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3944, 1170]
+      },
+      "properties": {
+        "name": "The Quills of Cetus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3777, 642]
+      },
+      "properties": {
+        "name": "Plains Animals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2926, 1111]
+      },
+      "properties": {
+        "name": "The Tower's Flesh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3675, 3416]
+      },
+      "properties": {
+        "name": "Plains of Eidolon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1256, 4274]
+      },
+      "properties": {
+        "name": "Teralyst Eidolon",
+        "isInCave": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2399, 4564]
+      },
+      "properties": {
+        "name": "Scavenging Way of Life",
+        "isInCave": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5621, 2218]
+      },
+      "properties": {
+        "name": "Life In Cetus",
+        "isInCave": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5202, 3198]
+      },
+      "properties": {
+        "name": "Amps",
+        "isInCave": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1691, 830]
+      },
+      "properties": {
+        "name": "Grineer Excavations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1250, 788]
+      },
+      "properties": {
+        "name": "Merchants of Cetus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [842, 2043]
+      },
+      "properties": {
+        "name": "Remnants of Orokin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2095, 2207]
+      },
+      "properties": {
+        "name": "The Ostrons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2767, 3565]
+      },
+      "properties": {
+        "name": "Harvesting the Tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [704, 4910]
+      },
+      "properties": {
+        "name": "Tools of Harvest"
+      }
+    }
+  ]
+}

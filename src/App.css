@@ -1,0 +1,34 @@
+:root {
+  color-scheme: dark;
+}
+
+.leaflet-container {
+  background-color: #000;
+}
+
+.leaflet-marker-icon {
+  background-color: #000;
+  border: 1px solid #ddd;
+  border-radius: 9999px;
+  color: white;
+  object-fit: contain;
+}
+
+.leaflet-container .leaflet-control-layers {
+  border: none;
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+.locationName {
+  display: flex;
+  place-content: center;
+  place-items: center;
+  background: none;
+  border: none;
+  font-size: 18px;
+  text-shadow: 0px 0px 2px #000;
+  text-transform: uppercase;
+  white-space: pre;
+  text-align: center;
+}
