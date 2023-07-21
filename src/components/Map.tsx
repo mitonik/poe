@@ -51,7 +51,7 @@ const MAP_BOUNDS: LatLngBoundsLiteral = [
   [6478, 6478],
 ];
 
-const TILES_URL = "/tiles/poe";
+const TILES_URL = "/poe/tiles/poe";
 
 const createIcon = (iconUrl: string) => {
   return icon({ iconUrl: iconUrl, iconSize: [48, 48] });
